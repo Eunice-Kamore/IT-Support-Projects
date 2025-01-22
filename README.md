@@ -41,7 +41,7 @@ This project series highlights the following key skills:
 - Software Deployment and Inventory
 - Helpdesk Tools and Processes
 - Advanced Administration
-
+  
 ---
 
 ## Navigation
