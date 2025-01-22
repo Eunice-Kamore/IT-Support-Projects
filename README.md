@@ -8,7 +8,7 @@ Using VirtualBox as the hypervisor, I’ve created these three virtual machines 
 
 1. **Windows Server 2022**: Serves as the domain controller and the system administrator's primary workstation.
 2. **Windows 10 (Helpdesk)**: Represents a helpdesk environment equipped with tools like RSAT for Active Directory management.
-3. **Windows 10 (Local User)**: Simulates a user for in an organization for testing purposes such as password resets and troubleshooting.
+3. **Windows 10 (Local User)**: Simulates a user in an organization for testing purposes such as password resets and troubleshooting.
 
 ---
 
