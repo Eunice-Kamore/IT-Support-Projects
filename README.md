@@ -26,6 +26,19 @@ This Lab series is designed to:
 
 The labs are arranged in order, with each lab showing a step by step process of performing tasks in an environment similar to a real-world IT environment. Clear screenshots have been used for illustration. Below is the list of labs in the series:
 
+
+1.[Getting Started with Virtual Box and Server 2022](https://github.com/Eunice-Kamore/Installing-VirtualBox-and-Windows-Server-2022)
+
+2.[Installing Active Directory Domain Services](https://github.com/Eunice-Kamore/Active-Directory-Domain-Services)
+
+3.[Creating Windows 10 VM and Joining it to the Domain](https://github.com/Eunice-Kamore/Creating-Windows-10-VM)
+
+4.[User Account Management with Active Directory](https://github.com/Eunice-Kamore/User-Account-Management-with-AD)
+
+5.[Solving Common Active Directory Issues](https://github.com/Eunice-Kamore/Solving-common-issues-in-Active-Directory)
+
+6.[Security Groups, Shared Folders and Mapped Drives](https://github.com/Eunice-Kamore/Security-Groups-Shared-Folders-and-Mapped-Drives)
+
 ---
 
 ## Skills Demonstrated
