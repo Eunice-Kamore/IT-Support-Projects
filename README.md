@@ -39,6 +39,8 @@ The labs are arranged in order, with each lab showing a step by step process of 
 
 6.[Security Groups, Shared Folders and Mapped Drives](https://github.com/Eunice-Kamore/Security-Groups-Shared-Folders-and-Mapped-Drives)
 
+7.[Group Policy Objects Configuration and Utilizing RSOP](https://github.com/Eunice-Kamore/Group-Policy-Objects-Configuration-RSOP)
+
 ---
 
 ## Skills Demonstrated
